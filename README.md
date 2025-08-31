@@ -11,7 +11,7 @@ Projeto didático voltado para praticar lógica de programação, manipulação 
 ---
 
 ## 🚀 Acesse o Projeto
-🔗 [Clique aqui para abrir o Sorteador de Números](https://luis-carlos-jr.github.io/Sorteador-de-numeros/)
+🔗 [Clique aqui para abrir o Sorteador de Números](https://sorteador-de-numeros-alpha-lac.vercel.app/)
 
 > **Obs.:** Caso a página não carregue de imediato, pressione `Ctrl + F5` ou atualize o navegador.  
 
